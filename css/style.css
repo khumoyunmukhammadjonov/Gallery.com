@@ -1,0 +1,10 @@
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+  }
+  
+  @media (max-width: 767.98px) {
+    .navbar-collapse {
+      margin-top: 40px;
+    }
+  }
